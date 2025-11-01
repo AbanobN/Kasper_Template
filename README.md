@@ -7,10 +7,10 @@ Part of my front-end fundamentals series.
 - Responsive layout for all devices  
 - Semantic HTML structure  
 - BEM methodology naming  
-- Reusable components & animations  
+- Reusable components 
 
 ## 🧰 Tech Stack
-HTML5 • CSS3 • Flexbox • Grid • BEM
+HTML5 • CSS3 • Flexbox • Grid
 
 ## 📚 What I Learned
 - Semantic markup & accessibility  
